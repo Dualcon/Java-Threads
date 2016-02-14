@@ -1,10 +1,3 @@
-# Threads
-Java - How to work with threads.
-
-
-# App.java
-
-
 package com.wikidreams.threads;
 
 public class App {
@@ -87,6 +80,3 @@ public class App {
 	}
 
 }
-
-
-Produced by [Wiki Dreams.github.io](https://WikiDreams.github.io/).
